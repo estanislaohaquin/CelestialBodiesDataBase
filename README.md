@@ -1,7 +1,10 @@
 # Relational Database (Beta)
 ## Celestial Bodies DataBase
 
-This is one of the required projects to earn the Relational Database's certification. For this project, I built a database of celestial bodies using PostgreSQL.
+This is one of the required projects to earn the FreeCodeCamp's Relational Database Certification. For this project, I built a database of celestial bodies using PostgreSQL. 
+You can check the whole course in the next link:
+
+https://www.freecodecamp.org/learn/relational-database/
 
 ## Instructions
 For this project, you need to log in to PostgreSQL with psql to create your database. Do that by entering psql --username=freecodecamp --dbname=postgres in the terminal. Make all the tests below pass to complete the project. Be sure to get creative, and have fun!
